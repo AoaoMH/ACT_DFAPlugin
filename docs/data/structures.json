@@ -1,7 +1,7 @@
 [
   {
     "Name": "Started",
-    "Opcode": 388,
+    "Opcode": 315,
     "Offset": {
       "RouletteCode": 8,
       "DungeonCode": 12
@@ -9,7 +9,7 @@
   },
   {
     "Name": "Matched",
-    "Opcode": 419,
+    "Opcode": 672,
     "Offset": {
       "RouletteCode": 2,
       "DungeonCode": 20,
@@ -50,7 +50,7 @@
   },
   {
     "Name": "Completed",
-    "Opcode": 954,
+    "Opcode": 462,
     "Offset": {
       "DungeonCode": 0
     }
